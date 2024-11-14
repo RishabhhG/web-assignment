@@ -2,7 +2,7 @@
   "name": "leaderboard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "./",
+  "homepage": ".",
   "dependencies": {
     "@dicebear/avatars": "^4.10.8",
     "@emotion/react": "^11.13.3",
