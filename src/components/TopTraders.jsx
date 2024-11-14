@@ -1,7 +1,4 @@
 import React from 'react';
-import { Card, CardContent, Avatar, Typography, Button, Stack, Box } from '@mui/material';
-import VerifiedIcon from '@mui/icons-material/Verified';
-import StarIcon from '@mui/icons-material/Star';
 import TraderCard from './TraderCard';
 
 // Import all images directly

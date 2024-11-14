@@ -3,14 +3,11 @@ import {
   Card,
   CardContent,
   Typography,
-  Button,
   Stack,
   Box,
 } from "@mui/material";
 import VerifiedIcon from "@mui/icons-material/Verified";
-import StarIcon from "@mui/icons-material/Star";
 import HexagonAvatar from "./HexagonAvatar";
-import avatarImage from "../images/user.jpg";
 import { RiStockFill } from "react-icons/ri";
 import { SiStockx } from "react-icons/si";
 import Divider from "@mui/material/Divider";
