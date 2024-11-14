@@ -1,5 +1,14 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
 .App {
   text-align: center;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  margin: 16px; /* Add margin to the body */
 }
 
 .App-logo {
@@ -22,6 +31,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  margin: 16px; /* Add margin to the header */
 }
 
 .App-link {
